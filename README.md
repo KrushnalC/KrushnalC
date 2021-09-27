@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Krushnal Choudhary
+- 👀 I’m interested in C|C++|Python|Web development
+- 🌱 I’m currently Computer Engineering student at Pune, India.
+- 💞️ I’m looking to start contributing to open source to enhance ny skills & to give by best.
